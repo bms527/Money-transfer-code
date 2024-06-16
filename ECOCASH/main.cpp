@@ -24,7 +24,7 @@ int main()
         }
         switch(opt1){
         case 1 :
-            cout<< " please the enter the amount you want to send "<<endl;
+            cout<< " please enter the amount you want to send "<<endl;
             cin>>s1;
             if(s1 < 50 ){
                 cout<< "you have insufficient credit"<<endl;
